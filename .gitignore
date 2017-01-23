@@ -1,0 +1,18 @@
+###################
+# DEFAULT GITIGNORE
+
+# ignore these
+*.swp
+*.pyc
+*.log
+*.aux
+*.synctex.gz
+
+# ignore data files
+*.npy
+*.npz
+*.pkl
+*.csv
+*.h5
+*.h5_bak
+
